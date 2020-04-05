@@ -5,7 +5,7 @@ class Cube {
     }
 
     // #2 직육면체 부피 구하기
-    getVolume() {
+    getVolume() { 
         return this.width * this.length * this.height;
     }
 }
